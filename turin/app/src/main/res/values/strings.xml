@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Turin - Itens</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_fragment_porcao">PORÇÕES</string>
+    <string name="text_fragment_artefatos">ARTEFATOS</string>
+    <string name="text_fragment_joias">JOIAS</string>
+
+    <string name="textPorcaoValor">Valor: </string>
+    <string name="textPorcaoNome">Nome: </string>
+    <string name="textPorcaoHabilidade">Habilidade: </string>
+    <string name="textPorcaoBonus">Bonus: </string>
+    <string name="textPorcaoRecuperacao">Recuperação: </string>
+    <string name="buttonPorcao">Inserir Porcao</string>
+
+    <string name="textArtefatoIdade">Idade</string>
+    <string name="textArtefatoValor">Valor</string>
+    <string name="textArtefatoNome">Nome </string>
+    <string name="buttonArtefato">Inserir Artefato</string>
+
+    <string name="textJoiaNome">Nome</string>
+    <string name="textJoiaValor">Valor</string>
+    <string name="textJoiaBonus">Bonus</string>
+    <string name="textJoiaHabilidade">Habilidade</string>
+    <string name="buttonJoia">Inserir Joia</string>
+
+    <string-array name="title_tab">
+        <item>PORÇÃO</item>
+        <item>ARTEFATOS</item>
+        <item>JOIAS</item>
+    </string-array>
+</resources>
